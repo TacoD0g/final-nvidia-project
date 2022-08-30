@@ -2,7 +2,7 @@
 
 This program reads letters and determines what letter it is looking at. This would be useful when further improved on to those who need to take written words and quickly copy it onto a computer.
 
-![](https://i.imgur.com/3JgSRws.png)
+![A picture of me taking pictures for the dataset](https://i.imgur.com/3JgSRws.png)
 
 ## The Algorithm
 
